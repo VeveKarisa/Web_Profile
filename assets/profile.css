@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Abril Fatface', cursive;
+    background-color: #90A153;
+}
+
+.navbar {
+    margin: auto;
+    margin-top: 30px;
+    align-items: center;
+    display: flex;
+    background-color: #F5E3B9;
+    width: 1200px;
+    height: 45px;
+    border-radius: 50px;
+    justify-content: space-between;
+ 
+}
+
+.nav-menu ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+}
+
+.nav-menu ul li{
+    padding: 6px 10px 10px 0px;
+}
+
+.nav-menu ul li a{
+    margin: auto;
+    text-align: right;
+    padding: 6px 20px;
+    text-decoration: none;
+    color: #97834F;
+    font-size: 20px;
+}
+
+.nav-menu ul li a:hover{
+    color: #E5B040;
+    text-decoration: ;
+    box-shadow: ;
+}
+
+.logo{
+    margin-bottom: auto;
+    text-align: right;
+    padding: 6px 20px;
+    text-decoration: none;
+    color: #97834F;
+    font-size: 22px; 
+    
+}
