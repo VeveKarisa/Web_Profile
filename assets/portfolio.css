@@ -84,10 +84,21 @@ body{
   }
   
   /* Add some padding inside the card container */
-  .container {
+  .container1 {
     padding: 2px 16px ;
     margin-bottom: 10px;
   }
+
+  .container2 {
+    padding: 2px 38px ;
+    margin-bottom: 10px;
+  }
+
+  .container3 {
+    padding: 2px 45px ;
+    margin-bottom: 10px;
+  }
+
 
 .card-content{
     display: flex;
