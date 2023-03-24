@@ -80,7 +80,7 @@ body{
     transition: 0.5s;
     border-radius: 10px;
     float: left;
-    margin: 50px 50px 10px 10px;
+    margin: 100px 50px 10px 10px;
     background-color: #F5E3B9;
     color: #97834F;
     text-align: center;
@@ -95,6 +95,7 @@ body{
   /* Add some padding inside the card container */
   .container {
     padding: 10px 16px ;
+    margin-top: 50px;
     margin-bottom: 10px;
   }
 
