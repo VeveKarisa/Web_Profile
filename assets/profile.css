@@ -56,7 +56,7 @@ body{
 .box1{
     background-color: #F5E3B9;
     width: 1200px;
-    height: 1000px;
+    height: 1500px;
     border-radius: 20px;
     align-items: center;
     justify-content: center;
@@ -115,11 +115,52 @@ body{
 }
 
 .nama{
-   text-align: center;
+    margin: auto;
     background-color: #90A153;
-    width: 200px;
+    width: 350px;
     height: 35px;
     border-radius: 15px;
-    margin-top: 150x;
-    margin-left: 150px;
+}
+
+.nama p{
+    display: flex;
+    padding-top: 2%;
+    text-align: center;
+    justify-content: center;
+}
+
+.birthdate{
+    margin: auto;
+    background-color: #90A153;
+    width: 350px;
+    height: 35px;
+    border-radius: 15px;
+}
+
+.birthdate p{
+    display: flex;
+    padding-top: 2%;
+    text-align: center;
+    justify-content: center;
+}
+
+.address{
+    margin: auto;
+    background-color: #90A153;
+    width: 350px;
+    height: 35px;
+    border-radius: 15px;
+
+}
+
+.address p{
+    display: flex;
+    padding-top: 2%;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.education{
+    margin-top: 100px;
 }
