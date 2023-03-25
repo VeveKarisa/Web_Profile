@@ -71,7 +71,7 @@ body{
     transition: 0.5s;
     border-radius: 5px;
     float: left;
-    margin: 50px 50px 10px 10px;
+    margin: 50px 50px 50px 50px;
     background-color: #F5E3B9;
     color: #97834F;
     text-align: center;
@@ -84,21 +84,12 @@ body{
   }
   
   /* Add some padding inside the card container */
-  .container1 {
+  .container{
     padding: 2px 16px ;
     margin-bottom: 10px;
+    height: 130px;
+    width: 200px;
   }
-
-  .container2 {
-    padding: 2px 38px ;
-    margin-bottom: 10px;
-  }
-
-  .container3 {
-    padding: 2px 45px ;
-    margin-bottom: 10px;
-  }
-
 
 .card-content{
     display: flex;
